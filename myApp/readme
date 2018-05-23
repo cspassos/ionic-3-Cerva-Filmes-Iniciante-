@@ -1,0 +1,4 @@
+* iniciar IONIC par funciionar a camera: 
+ - ionic cordova run browser;
+* iniciar IONIC normalmente sem funcionar a camera:
+ - ionic serve
